@@ -5,10 +5,8 @@
 <h3>Frontend Developer • Web & Mobile Enthusiast</h3>
 
 <p>
-Passionate about building responsive, clean, and user-friendly applications.
+Passionate about building responsive, clean, and user-friendly web & mobile applications.
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=RenggaReznatra123&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
@@ -17,11 +15,11 @@ Passionate about building responsive, clean, and user-friendly applications.
 # 👨‍💻 About Me
 
 - 🎓 Software Engineering Student at **SMK Raden Umar Said**
-- 💙 Interested in **Frontend Development**
-- 🌐 Passionate about **Web & Mobile Development**
-- 🎨 Love creating **clean, responsive, and user-friendly UI**
+- 💙 Passionate about **Frontend Development**
+- 🌐 Interested in **Web & Mobile Development**
+- 🎨 Love creating clean, responsive, and user-friendly interfaces
 - 🌱 Currently learning **React**
-- 🚀 Always learning and improving through real projects
+- 🚀 Always learning through projects and continuous improvement
 
 ---
 
@@ -39,16 +37,10 @@ Passionate about building responsive, clean, and user-friendly applications.
 <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
-### ⚙ Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=laravel" />
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🎨 Design & Tools
@@ -59,72 +51,30 @@ Passionate about building responsive, clean, and user-friendly applications.
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RenggaReznatra123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenggaReznatra123&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RenggaReznatra123&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RenggaReznatra123&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RenggaReznatra123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
+
 <a href="mailto:renggareznatra.daniswara@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rengga-reznatra-7b1a6a329/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 <a href="https://github.com/RenggaReznatra123">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 💡 Quote
+### 💙 Favorite Quote
 
 > **"Keep learning, keep building, and enjoy the process."**
-
-⭐ Thanks for visiting my profile!
 
 </div>
