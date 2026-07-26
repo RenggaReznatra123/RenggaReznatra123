@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=2563EB&center=true&vCenter=true&width=900&height=60&lines=Hi+👋,+I'm+Rengga+Reznatra+Daniswara;Frontend+Developer;Web+%26+Mobile+Developer;Flutter+Developer;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=2563EB&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Rengga+Reznatra+Daniswara;Frontend+Developer;Web+%26+Mobile+Developer;Flutter+Developer;Always+Learning+New+Things" />
 
 <h3>Frontend Developer • Web & Mobile Enthusiast</h3>
 
 <p>
-Building clean, responsive, and user-friendly web & mobile applications.
+Passionate about building responsive, clean, and user-friendly web & mobile applications.
 </p>
 
 </div>
@@ -19,16 +19,6 @@ Building clean, responsive, and user-friendly web & mobile applications.
 - 🌐 Interested in **Web & Mobile Development**
 - 🎨 Love creating clean, responsive, and user-friendly interfaces
 - 🚀 Always learning through real projects and continuous improvement
-
----
-
-# 🚀 Current Focus
-
-- 💻 Frontend Development
-- 📱 Flutter Development
-- 🌐 Responsive Web Design
-- 🎨 UI/UX Design
-- ⚡ Modern Web Development
 
 ---
 
@@ -61,40 +51,20 @@ Building clean, responsive, and user-friendly web & mobile applications.
 
 ---
 
-# 📂 Featured Technologies
-
-<p>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:renggareznatra.daniswara@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rengga-reznatra-7b1a6a329/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 <a href="https://github.com/RenggaReznatra123">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 </p>
@@ -105,6 +75,6 @@ Building clean, responsive, and user-friendly web & mobile applications.
 
 ### 💙 Favorite Quote
 
-> *"Keep learning, keep building, and enjoy the process."*
+> **"Keep learning, keep building, and enjoy the process."**
 
 </div>
